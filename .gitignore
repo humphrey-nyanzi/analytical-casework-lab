@@ -1,0 +1,18 @@
+# Raw/local data and caches
+data/
+cache/
+checkpoints/
+**/data/
+**/cache/
+**/checkpoints/
+
+# Python/Jupyter local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
