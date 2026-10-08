@@ -58,4 +58,4 @@ Summary and interpretaion wording were also a bit fuzzy but with the help of AI,
 The final conclusion wording was drafted by AI from my own sentences. The reconciliation, rows-versus-events diagnostic, duplicate proof, outcome cross-check and assertions were written by AI.
 
 ## 8. Reproducing
-Notebook: `MC_C02_01_Cricket_Match_State_Microcase.ipynb`. Commit: `<paste hash>`.
+Notebook: `MC_C02_01_Cricket_Match_State_Microcase.ipynb`. Commit: `50bafd6`.
